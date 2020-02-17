@@ -57,4 +57,4 @@ Put the bottom on and screw the four M1.6x8mm screws.
 ![](images/mini/IMG_5326.JPG)
 Install the fan and secure it with the M2x12mm screws. You can rotate the fan to find the best angle to manage the cable.
 
-###All Finish, have fun with the case.
+### All Finish, have fun with the case.

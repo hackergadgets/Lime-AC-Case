@@ -88,4 +88,4 @@ Secure the Fan with the M3x12mm screws.
 ![](images/tetra/IMG_3847.JPG)
 Turn the case around, and screw all the M1.6*8mm screws.
 
-###All Finish, have fun with the case.
+### All Finish, have fun with the case.
