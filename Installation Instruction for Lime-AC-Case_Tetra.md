@@ -34,7 +34,7 @@ First, Make sure your board can be slid into the case, if not, just bend the USB
 ![](images/tetra/IMG_9930.png)
 
 ![](images/tetra/IMG_6503.JPG)
-Put the thermal paste on the memory chips and the nake crop on the bottom.
+Put the thermal paste on the memory chips and the exposed copper on the bottom.
 
 ![](images/tetra/IMG_5914.JPG)
 Slide the board back into the bottom case and secure it with the M2x3mm screws.
@@ -53,6 +53,9 @@ Put the LED indicator into the LED holes.
 
 ## Step 4: Install the RF cables(the hardest part).
 In this part, a Flat Round Tip Straight Tweezer could be a lot of help.
+
+**Notice: The stande usage of the star washers is put it inside the case. but there is not enough space for it, so put it outside the case, work fine too.**
+
 ![](images/tetra/IMG_2447.JPG)
 It's not much difficult to install the TX cables, just make sure not to break the "GU" filter and no cables on top of the LMS7002 and Mosfet.
 
@@ -66,7 +69,7 @@ Then the RX2_L, just don't damage the "GU" filter.
 RX2_H.
 
 ![](images/tetra/IMG_4076.JPG)
-The bend the RX1_W and RX1_L cable into "S" shape, and deal with the U.F.L connectors as the above picture shows.
+Then bend the RX1_W and RX1_L cable into "S" shape, and deal with the U.F.L connectors as the above picture shows.
 
 ![](images/tetra/IMG_5500.JPG)
 The last is RX1_H, similar to RX1_W and RX1_L.
